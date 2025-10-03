@@ -1,4 +1,4 @@
-streamlit==1.38.0
+streamlit==1.47.1
 ultralytics==8.3.6
 torch==2.5.1
 torchvision==0.20.1
@@ -9,6 +9,7 @@ pandas==2.2.2
 matplotlib==3.9.1
 huggingface-hub==0.24.5
 opencv-python-headless
+
 
 
 
