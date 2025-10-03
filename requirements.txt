@@ -8,5 +8,7 @@ pillow==10.4.0
 pandas==2.2.2
 matplotlib==3.9.1
 huggingface-hub==0.24.5
+opencv-python-headless
+
 
 
