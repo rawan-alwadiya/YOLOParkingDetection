@@ -43,8 +43,6 @@ def detect_parking(model, image: Image.Image, conf=0.25, imgsz=640):
 
 
 
-# st.set_page_config(page_title="Parking Spot Detection", page_icon="🅿️", layout="centered")
-
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to", ["Home", "Detection"])
 
@@ -93,3 +91,4 @@ elif page == "Detection":
             f"🅿️ **Empty spots:** {empty_count}\n\n"
             f"🚗 **Occupied spots:** {occupied_count}"
         )
+
