@@ -63,28 +63,22 @@ These results confirm the model’s effectiveness for real-world parking availab
 
 ---
 
-## **Project Links**
-
-- **Live App (Streamlit)**: https://yoloparkingdetection-yeqnqxdi7ev7zrm9ketsyk.streamlit.app/  
-- **Hugging Face Repo**: https://huggingface.co/RawanAlwadeya/YOLOParkingDetection  
-- **GitHub Repo**: https://github.com/rawan-alwadiya/YOLOParkingDetection  
-- **LinkedIn Demo Post**: https://www.linkedin.com/posts/rawan-alwadeya-17948a305_deeplearning-yolov8-computervision-activity-7379997449509199873-c2fq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE3YzG0BAZw48kimDDr_guvq8zXgSjDgk_I  
-
----
-
 ## **Tech Stack**
 
 **Languages & Libraries**:  
 - Python, Pandas, NumPy  
 - PyTorch, Ultralytics YOLOv8  
 - OpenCV, Matplotlib, Seaborn  
-- Streamlit (Deployment)  
+- Streamlit (Deployment)
 
-**Techniques**:  
-- Transfer learning with YOLOv8  
-- Bounding box annotation and visualization  
-- Real-time object detection and monitoring  
-- Streamlit & Hugging Face deployment  
+---
+
+## **👩‍💻 Author**
+
+**Rawan Alwadeya**  
+AI Engineer | Generative AI Engineer | Data Scientist  
+- 📧 Email: r.wadia21@gmail.com 
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/rawan-alwadeya-17948a305/) 
 
 ---
 
